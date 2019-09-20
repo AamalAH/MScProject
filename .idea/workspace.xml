@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e33587e-de90-4304-ab62-354492af43d4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pybullet_tut$One.coverage" NAME="One Coverage Results" MODIFIED="1557418688330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pybullet_tut$StaticTests.coverage" NAME="StaticTests Coverage Results" MODIFIED="1564381778686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pybullet_tut$Main.coverage" NAME="Main Coverage Results" MODIFIED="1565348117220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pybullet_tut$PSO.coverage" NAME="PSO Coverage Results" MODIFIED="1562926017643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pybullet_tut$GNN.coverage" NAME="GNN Coverage Results" MODIFIED="1565365016727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3077">
+              <caret line="186" column="183" selection-start-line="186" selection-start-column="16" selection-end-line="186" selection-end-column="183" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Drone.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3094">
+              <caret line="192" column="45" selection-start-line="192" selection-start-column="45" selection-end-line="192" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StaticTests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StaticData.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GNN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1462">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>colli</find>
+      <find>box</find>
+      <find>prin</find>
+      <find>^</find>
+      <find>240</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>**</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pybullet_data/sphere2.urdf" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pybullet_data/qimmiq.obj" />
+        <option value="$PROJECT_DIR$/One.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pybullet_data/qimmiq.urdf" />
+        <option value="$PROJECT_DIR$/Multi Point Nav.py" />
+        <option value="$PROJECT_DIR$/qimmiq.urdf" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pybullet_data/block.urdf" />
+        <option value="$PROJECT_DIR$/NarrowPassageTests.py" />
+        <option value="/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pybullet_data/sphere2.urdf" />
+        <option value="/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pybullet_data/block.urdf" />
+        <option value="$PROJECT_DIR$/block.urdf" />
+        <option value="$PROJECT_DIR$/SuccessFailTests.py" />
+        <option value="$PROJECT_DIR$/GA.py" />
+        <option value="$PROJECT_DIR$/APFCCPlanar.py" />
+        <option value="$PROJECT_DIR$/Project.py" />
+        <option value="$PROJECT_DIR$/MultiPointNav.py" />
+        <option value="$PROJECT_DIR$/Testers/MainTests.py" />
+        <option value="$PROJECT_DIR$/Testers/StaticTests.py" />
+        <option value="$PROJECT_DIR$/Tester/Main2.py" />
+        <option value="$PROJECT_DIR$/MotionPlanners/GNNNav.py" />
+        <option value="$PROJECT_DIR$/MotionPlanners/ENN.py" />
+        <option value="$PROJECT_DIR$/gaTests.py" />
+        <option value="$PROJECT_DIR$/ENN.py" />
+        <option value="$PROJECT_DIR$/Lol.py" />
+        <option value="$PROJECT_DIR$/lidar.py" />
+        <option value="$PROJECT_DIR$/DVZ.py" />
+        <option value="$USER_HOME$/Anaconda3/Lib/site-packages/pybullet_data/block.urdf" />
+        <option value="$PROJECT_DIR$/Try.txt" />
+        <option value="$PROJECT_DIR$/MotionPlanners/MultiPointNav.py" />
+        <option value="$PROJECT_DIR$/StaticData.txt" />
+        <option value="$PROJECT_DIR$/DynamicTests.py" />
+        <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/PSO.py" />
+        <option value="$PROJECT_DIR$/StaticTests.py" />
+        <option value="$PROJECT_DIR$/PID.py" />
+        <option value="$PROJECT_DIR$/Obstacle.py" />
+        <option value="$PROJECT_DIR$/Drone.py" />
+        <option value="$PROJECT_DIR$/GNN.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="y" value="20" />
+    <option name="width" value="1440" />
+    <option name="height" value="813" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pybullet_tut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pybullet_tut" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pybullet_tut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pybullet_tut" type="462c0819:PsiDirectoryNode" />
+              <item name="MotionPlanners" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Testers" />
+      <recent name="$PROJECT_DIR$/Materials" />
+      <recent name="$PROJECT_DIR$/MotionPlanners" />
+      <recent name="C:\Users\Aamal Hussain\Google Drive\Uni\MSc\Work\pybullet_tut" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aamal Hussain\Google Drive\Uni\MSc\Work\pybullet_tut" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="DynamicTests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pybullet_tut" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicTests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pybullet_tut" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pybullet_tut" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MainTests" type="PythonConfigurationType" factoryName="Python">
+      <module name="pybullet_tut" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MainTests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MultiPointNav" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pybullet_tut" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MotionPlanners" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MotionPlanners/MultiPointNav.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StaticTests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pybullet_tut" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StaticTests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="pybullet_tut" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.MainTests" />
+      <item itemvalue="Python.DynamicTests" />
+      <item itemvalue="Python.GNN" />
+      <item itemvalue="Python.Main" />
+      <item itemvalue="Python.MultiPointNav" />
+      <item itemvalue="Python.StaticTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.GNN" />
+        <item itemvalue="Python.StaticTests" />
+        <item itemvalue="Python.DynamicTests" />
+        <item itemvalue="Python.MultiPointNav" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e33587e-de90-4304-ab62-354492af43d4" name="Default Changelist" comment="" />
+      <created>1557418657099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557418657099</updated>
+      <workItem from="1557418658279" duration="4526000" />
+      <workItem from="1559215779729" duration="2197000" />
+      <workItem from="1559721275692" duration="21966000" />
+      <workItem from="1560078644708" duration="663000" />
+      <workItem from="1560332940734" duration="5000" />
+      <workItem from="1560344855033" duration="694000" />
+      <workItem from="1560435907105" duration="5749000" />
+      <workItem from="1560503481293" duration="14696000" />
+      <workItem from="1560580684794" duration="10756000" />
+      <workItem from="1560758704445" duration="10485000" />
+      <workItem from="1561050932711" duration="36574000" />
+      <workItem from="1561201873478" duration="7299000" />
+      <workItem from="1561281774475" duration="986000" />
+      <workItem from="1561365991646" duration="16962000" />
+      <workItem from="1561451784534" duration="9545000" />
+      <workItem from="1561621437744" duration="111000" />
+      <workItem from="1561621561520" duration="21844000" />
+      <workItem from="1561674086121" duration="603000" />
+      <workItem from="1561807770700" duration="553000" />
+      <workItem from="1561808351192" duration="20273000" />
+      <workItem from="1561986903270" duration="8144000" />
+      <workItem from="1562069159128" duration="8265000" />
+      <workItem from="1562077458174" duration="30827000" />
+      <workItem from="1562222105477" duration="158000" />
+      <workItem from="1562236767853" duration="6000" />
+      <workItem from="1562244318201" duration="7363000" />
+      <workItem from="1562265504798" duration="3000" />
+      <workItem from="1562348370112" duration="7592000" />
+      <workItem from="1562571261647" duration="37121000" />
+      <workItem from="1562759346815" duration="18568000" />
+      <workItem from="1562858885603" duration="9093000" />
+      <workItem from="1562940696285" duration="134000" />
+      <workItem from="1562940831223" duration="1055000" />
+      <workItem from="1562947838564" duration="21189000" />
+      <workItem from="1563190723996" duration="26037000" />
+      <workItem from="1563375083182" duration="401000" />
+      <workItem from="1563391586933" duration="113847000" />
+      <workItem from="1564377515309" duration="5101000" />
+      <workItem from="1564396554047" duration="639000" />
+      <workItem from="1564405786935" duration="11761000" />
+      <workItem from="1564556357287" duration="4284000" />
+      <workItem from="1564592688100" duration="2240000" />
+      <workItem from="1564595050790" duration="3703000" />
+      <workItem from="1564648736591" duration="61000" />
+      <workItem from="1564648836095" duration="1000" />
+      <workItem from="1564651231946" duration="30055000" />
+      <workItem from="1564762338442" duration="1027000" />
+      <workItem from="1564763450319" duration="339000" />
+      <workItem from="1564763802274" duration="8176000" />
+      <workItem from="1564985695368" duration="1518000" />
+      <workItem from="1565024805863" duration="2409000" />
+      <workItem from="1565273283416" duration="7051000" />
+      <workItem from="1565292306904" duration="21028000" />
+      <workItem from="1565431437490" duration="35000" />
+      <workItem from="1565431808411" duration="271000" />
+      <workItem from="1565432304907" duration="4798000" />
+      <workItem from="1565444447365" duration="6608000" />
+      <workItem from="1565515746517" duration="233000" />
+      <workItem from="1565516230518" duration="3715000" />
+      <workItem from="1565688764737" duration="3262000" />
+      <workItem from="1565697128837" duration="1694000" />
+      <workItem from="1565698842289" duration="8007000" />
+      <workItem from="1565801285147" duration="685000" />
+      <workItem from="1565854086442" duration="46000" />
+      <workItem from="1565874232239" duration="702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="640889000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21849866" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Structure" order="2" weight="0.24964234" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3280142" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4995958" weight="0.3954496" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4987874" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.32673267" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49840087" visible="true" weight="0.4596888" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.644186" weight="0.41897655" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="273" height="495" id="Documentation" order="5" sideWeight="0.35581395" side_tool="true" weight="0.695629" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17238913" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Structure" order="2" weight="0.24964234" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3280142" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4995958" weight="0.39748955" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4987874" weight="0.32978722" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.32775453" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49840087" visible="true" weight="0.35425383" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.644186" weight="0.41917023" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="273" height="495" id="Documentation" order="5" sideWeight="0.35581395" side_tool="true" weight="0.69599426" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SuccessFailTests.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DynamicTests.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/StaticTests.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GNN.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="inputDeviations[0][0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pybullet_tut$MultiPointNav.coverage" NAME="MultiPointNav Coverage Results" MODIFIED="1561373425018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pybullet_tut$Drone.coverage" NAME="Drone Coverage Results" MODIFIED="1561373546377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pybullet_tut$StaticTests.coverage" NAME="StaticTests Coverage Results" MODIFIED="1565436954917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pybullet_tut$SuccessFailTests.coverage" NAME="SuccessFailTests Coverage Results" MODIFIED="1564481013703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pybullet_tut$Project.coverage" NAME="Project Coverage Results" MODIFIED="1564739780418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pybullet_tut$DynamicTests.coverage" NAME="DynamicTests Coverage Results" MODIFIED="1565440741873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pybullet_tut$GA.coverage" NAME="GA Coverage Results" MODIFIED="1564500408747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pybullet_tut$PSO.coverage" NAME="PSO Coverage Results" MODIFIED="1563743321549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pybullet_tut$GNN.coverage" NAME="GNN Coverage Results" MODIFIED="1565694870277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pybullet_tut$Main.coverage" NAME="Main Coverage Results" MODIFIED="1565436726921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>import pandas as pd
+df = pd.DataFrame(self.bestPosition)
+df.to_clipboard(index = False, header = False)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>import pandas as pd
+df = pd.DaraFrame(self.bestPosition)
+df.to_clipboard(index = False, header = False)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>import pybullet as pbl
+pbl.getMatrixFromQuaternion(Drone.quat)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>for f in self.parameters():
+    print(f.size())</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>for f in self.parameters():
+    print(f)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>distances = torch.randn(68400)
+distances.reshape(240, 285)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(self.c[1]**2) * (self.c[2]**2) * (np.cos(alpha_R)**2) * (np.cos(theta)**2) * (np.cos(phi)**2) +\
+        2 * np.cos(alpha_R) * np.sin(alpha_R)*(np.cos(phi)**2)*np.cos(theta)*np.sin(theta)*((self.c[1]**2)*(self.c[2]**2) - (self.c[0]**2)*(self.c[2]**2)) +\
+        (self.c[1]**2)*(self.c[2]**2)*(np.sin(alpha_R)**2)*(np.sin(theta)**2) * (np.cos(phi)**2) +\
+        (self.c[0]**2)*(self.c[2]**2)*(np.cos(alpha_R)**2)*(np.sin(theta)**2) * (np.cos(phi)**2) +\
+        (self.c[0]**2)*(self.c[2]**2)*(np.sin(alpha_R)**2)*(np.cos(theta)**2) * (np.cos(phi)**2) +\
+        (self.c[0]**2)*(self.c[1]**2)*(np.sin(phi)**2)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>A = (self.c[1] ** 2) * (self.c[2] ** 2) * (np.cos(alpha_R) ** 2) * (np.cos(theta) ** 2) * (np.cos(phi) ** 2) + \
+    2 * np.cos(alpha_R) * np.sin(alpha_R) * (np.cos(phi) ** 2) * np.cos(theta) * np.sin(theta) * (
+                (self.c[1] ** 2) * (self.c[2] ** 2) - (self.c[0] ** 2) * (self.c[2] ** 2)) + \
+    (self.c[1] ** 2) * (self.c[2] ** 2) * (np.sin(alpha_R) ** 2) * (np.sin(theta) ** 2) * (np.cos(phi) ** 2) + \
+    (self.c[0] ** 2) * (self.c[2] ** 2) * (np.cos(alpha_R) ** 2) * (np.sin(theta) ** 2) * (np.cos(phi) ** 2) + \
+    (self.c[0] ** 2) * (self.c[2] ** 2) * (np.sin(alpha_R) ** 2) * (np.cos(theta) ** 2) * (np.cos(phi) ** 2) + \
+    (self.c[0] ** 2) * (self.c[1] ** 2) * (np.sin(phi) ** 2)
+
+B = -2 * (self.c[1] ** 2) * (self.c[2] ** 2) * self.a[0] * np.cos(alpha_R) * np.cos(theta) * np.cos(phi) - \
+    2 * (self.c[1] ** 2) * (self.c[2] ** 2) * self.a[0] * np.sin(alpha_R) * np.sin(theta) * np.cos(phi)
+
+C = (self.a[0] ** 2) * (self.c[1] ** 2) * (self.c[2] ** 2) - (self.c[0] ** 2) * (self.c[1] ** 2) * (self.c[2] ** 2)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>B = -2 * (self.c[1]**2)*(self.c[2]**2)*self.a[0]*np.cos(alpha_R)*np.cos(theta)*np.cos(phi) -             2 * (self.c[1]**2)*(self.c[2]**2)*self.a[0]*np.sin(alpha_R)*np.sin(theta)*np.cos(phi)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>crossover = coords[:, np.where(((coords[1] &lt;= self.allUpperBound[0][1]) * 1) * ((coords[0] &lt;= self.allUpperBound[0][0]) * 1) * (                     (coords[1] &gt;= self.allLowerBound[0][1]) * 1) * ((coords[0] &gt;= self.allLowerBound[0][0]) * 1))]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>print(self.bestPosition)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.bestPosition</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.bestFitness</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>np.array(Qimmiq.pos)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Qimmiq.pos</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>np.linalg.norm(Qimmiq.pos - Qimmiq.setpoint)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Qimmiq.time</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Qimmiq.e</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(60 * self.L/4)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>np.mean(Qimmiq.times)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/qimmiq.obj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qimmiq.urdf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pybullet_data/block.urdf" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/numpy/core/shape_base.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/numpy/linalg/linalg.py" />
+    <entry file="file://$PROJECT_DIR$/NarrowPassageTests.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pybullet_data/duck_vhacd.urdf" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pybullet_data/pr2_gripper.urdf" />
+    <entry file="file://$PROJECT_DIR$/block.urdf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pybullet_data/block.urdf" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pybullet_data/r2d2.urdf" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pybullet_data/cartpole.urdf" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pybullet_data/sphere2.urdf" />
+    <entry file="file://$PROJECT_DIR$/MotionPlanners/APFCCPlanar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pybullet_data/plane100.obj" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pybullet_data/plane100.urdf" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pybullet_data/plane.obj" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pybullet_data/plane.urdf" />
+    <entry file="file://$PROJECT_DIR$/Testers/Project.py" />
+    <entry file="file://$PROJECT_DIR$/GA.py" />
+    <entry file="file://$PROJECT_DIR$/MainTests.py" />
+    <entry file="file://$PROJECT_DIR$/Tester/Main2.py" />
+    <entry file="file://$PROJECT_DIR$/MotionPlanners/GNNNav.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/modules/module.py" />
+    <entry file="file://$PROJECT_DIR$/gaTests.py" />
+    <entry file="file://$PROJECT_DIR$/ENN.py" />
+    <entry file="file://$PROJECT_DIR$/Lol.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/modules/linear.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/numpy/core/fromnumeric.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/functional.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/numpy/core/fromnumeric.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/utils/data/__init__.pyi" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/utils/__init__.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/modules/conv.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pybullet_data/block.urdf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Try.txt" />
+    <entry file="file://$PROJECT_DIR$/DynamicData.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DVZ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="49" />
+          <folding>
+            <element signature="e#115#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lidar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="30" column="85" lean-forward="true" selection-start-line="30" selection-start-column="85" selection-end-line="30" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SuccessFailTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="136" column="2" lean-forward="true" selection-start-line="136" selection-start-column="2" selection-end-line="136" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PSO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Obstacle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MotionPlanners/MultiPointNav.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2397">
+          <caret line="141" column="40" selection-start-line="141" selection-start-column="40" selection-end-line="141" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PID.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="186" column="183" selection-start-line="186" selection-start-column="16" selection-end-line="186" selection-end-column="183" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Drone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3094">
+          <caret line="192" column="45" selection-start-line="192" selection-start-column="45" selection-end-line="192" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StaticTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StaticData.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
